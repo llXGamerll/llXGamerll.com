@@ -1,1 +1,4 @@
 /* this is the start */
+body {
+    background-color: hsl(204, 2%, 54%);
+}
